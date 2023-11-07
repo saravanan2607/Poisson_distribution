@@ -1,3 +1,6 @@
+## EXP : 02
+## DATE : 15.09.23
+
 # Fitting Poisson  distribution
 # Aim : 
 
