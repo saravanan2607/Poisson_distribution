@@ -1,6 +1,5 @@
 ## EXP : 02
 ## DATE : 15.09.23
-
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -22,13 +21,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 2. Events occur independently. I
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
- 
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
-
 # Experiment :
-
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
@@ -71,8 +66,6 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ````
- 
-
 # Output : 
 ![output](https://github.com/21003698/Poisson_distribution/assets/93427522/66c445f7-50f1-4749-a102-9da761ccabcd)
 
